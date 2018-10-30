@@ -38,6 +38,13 @@ Support controller reverse parameter callback.
 };
 ```
 
+## Installation
+### [CocoaPods](http://cocoapods.org/)
+
+```ruby
+pod 'DJRouter', '~> 0.0.1'
+```
+
 ## License
 DJRouter is available under the MIT license.
 
